@@ -1,6 +1,6 @@
 <img src="./images/helloworld.png" alt="Hello World!"/>
 
-# Hi!👋� I'm Valeria.
+# Hi!👋 I'm Valeria.
 
 - 💻 📚 Currently studying - Angular, React, Bootstrap, JavaScript, CSS, HTML5, Node.js
 - 🛠  Tools - Git, Github, npm, Slack.
