@@ -11,7 +11,7 @@
 ## 💬 About Me
 
 My name is Valeria Videla Mardones, Front-End Developer in process. Tech - Communication and Connectivity Lover. 
-Compulsive writer, digital woman nomad from birth.
+Compulsive writer, digital woman nomad from birth, passionate about arts.
 <br>
 🇨🇱 - Actually I'm student in Laboratoria/Bootcamp, from Chile. <br>
 📷  - Also I'm Filmmaker and photographer so if you want you can see my other projects about this [HERE](https://www.valeriavidela.cl) 
