@@ -3,14 +3,14 @@
 # Hi there, I'm Valeria, <br>
 ## but everyone knows me as Tai. 🌿
 
-- 📚 Currently studying:  React.js 
-- 💻  Working with: HTML5, CSS, JavaScript, Bootstrap, Node.js
+- 📚 Currently studying:  React.js , Material-UI
+- 💻  Working with: HTML5, CSS, JavaScript, Bootstrap4, Node.js
 - 🛠  Other Tools: Git, GitHub, Figma, Trello.
 - ☕  Open to talk.
 
 ## 💬 About Me
 
-My name is Valeria Videla Mardones, Front-End Developer in process. Tech - Communication and Connectivity Lover. 
+My name is Valeria Videla Mardones, Front-End Developer, Tech - Communication and Connectivity Lover. 
 Compulsive writer, digital woman nomad from birth, passionate about arts.
 <br>
 🇨🇱 - Actually I'm student in Laboratoria/Bootcamp, from Chile. <br>
