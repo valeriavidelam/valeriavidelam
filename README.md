@@ -3,9 +3,9 @@
 # Hi there, I'm Valeria, <br>
 ## but everyone knows me as Tai. 🌿
 
-- 📚 Currently studying:  React.js , Material-UI
-- 💻  Working with: HTML5, CSS, JavaScript, Bootstrap4, Node.js
-- 🛠  Other Tools: Git, GitHub, Figma, Trello.
+- 📚 Currently studying:  React.js , Material-UI.
+- 💻  Working with: HTML5, CSS, JavaScript, Bootstrap4, Node.js, Firebase.
+- 🛠  Other Tools: Git, GitHub, Figma, Trello, Miro.
 - ☕  Open to talk.
 
 ## 💬 About Me
@@ -23,4 +23,4 @@ I am constantly learning about programming so I that the most important thing he
 
 ## 📫 Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/valeriavidela/)
+Visit my [LinkedIn](https://www.linkedin.com/in/valeriavidela/) to see more about me. :)
