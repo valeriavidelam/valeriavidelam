@@ -3,9 +3,9 @@
 # Hi there, I'm Valeria, <br>
 ## but everyone knows me as Tai. 🌿
 
-Front- End Developer from Chile 🇨🇱
+Front- End Developer from Chile 
 
-- 📚 Currently studying:  Hooks in React.js
+- 📚 Currently studying:  UX Experiencie
 - 💻  Working with: React.js, HTML5, CSS, JavaScript, Bootstrap, Material-ui, Node.js
 - 🛠  Other Tools: Git, GitHub, Figma, Trello, Miro.
 - ☕  Open to talk.
